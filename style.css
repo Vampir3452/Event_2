@@ -16,3 +16,6 @@
 
 /* New portrait: preserve the host's face in the gallery crop. */
 .gallery-tall img{object-position:50% 15%}
+
+/* Match the weight and lettering of the other photo captions. */
+.about-photo figcaption,.creative-shot figcaption{font-family:Onest,Arial,sans-serif;font-weight:700;letter-spacing:.06em}
