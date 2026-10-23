@@ -19,3 +19,6 @@
 
 /* Match the weight and lettering of the other photo captions. */
 .about-photo figcaption,.creative-shot figcaption{font-family:Onest,Arial,sans-serif;font-weight:700;letter-spacing:.06em}
+
+/* A clear gift offer followed by the coordinator's role. */
+.gift strong{display:block;font-size:16px;line-height:1.4}.gift-description{display:block;margin-top:8px;color:var(--paper);font-size:13px;line-height:1.6}
